@@ -1,0 +1,23 @@
+{
+  "name": "testing_functions",
+  "version": "1.0.0",
+  "description": "This Project is created to learn the act of Testing Codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolashot/Testing_Functions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lolashot/Testing_Functions/issues"
+  },
+  "homepage": "https://github.com/lolashot/Testing_Functions#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
